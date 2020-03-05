@@ -1,0 +1,9 @@
+2020-03-05 10:28:47,512 caselog.py--> <module> 20: INFO ----->test
+2020-03-05 10:35:50,638 caselog.py--> <module> 20: INFO ----->test
+2020-03-05 10:36:08,380 caselog.py--> <module> 20: INFO ----->test
+2020-03-05 11:07:51,106 register_case.py--> setUp 20: INFO ----->开始数据执行
+2020-03-05 11:08:02,794 register_case.py--> setUp 20: INFO ----->开始数据执行
+2020-03-05 11:08:15,470 register_case.py--> setUp 20: INFO ----->开始数据执行
+2020-03-05 11:08:28,200 register_case.py--> setUp 20: INFO ----->开始数据执行
+2020-03-05 11:08:39,935 register_case.py--> setUp 20: INFO ----->开始数据执行
+2020-03-05 11:08:51,644 register_case.py--> setUp 20: INFO ----->开始数据执行
